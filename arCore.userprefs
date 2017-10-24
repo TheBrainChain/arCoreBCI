@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GoogleARCore\HelloARExample\Scripts\PlaneAttachment.cs">
+    <Files>
+      <File FileName="Assets\GoogleARCore\SDK\Scripts\Api\TangoClientApi.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoogleARCore\HelloARExample\Scripts\HelloARController.cs" Line="124" Column="95" />
+      <File FileName="Assets\NewBehaviourScript.cs" Line="14" Column="7" />
+      <File FileName="Assets\GoogleARCore\HelloARExample\Scripts\PlaneAttachment.cs" Line="77" Column="83" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
